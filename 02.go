@@ -6,5 +6,8 @@ import (
 
 func main () {
 	fmt.Println ("hello")
+
+	aaa := make ([]int, 10)
+	aaa[0] = 1
 }
 
